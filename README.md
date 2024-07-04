@@ -82,7 +82,7 @@
 
 ## [ERD]
 <img width="2138" alt="스크린샷 2024-07-05 오전 5 06 15" src="https://github.com/june5111/git_repository_test/assets/130432762/2a32f734-3570-48ea-bc01-7af7e5660ab4">
----------
+
 ## [API SPECES]
 (https://github.com/june5111/hhplus-concert/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
 
