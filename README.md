@@ -68,9 +68,9 @@
 
 # 콘서트 예약 서비스
 
-### [Milestone] (https://github.com/users/june5111/projects/1/views/2)
----------
-### [Sequence Diagram]
+## [Milestone] (https://github.com/users/june5111/projects/1/views/2)
+
+## [Sequence Diagram]
 <img width="668" alt="스크린샷 2024-07-05 오전 1 00 16" src="https://github.com/june5111/git_repository_test/assets/130432762/fabc7ef5-af3e-497d-9f85-b0f32eec1017">
 <img width="643" alt="스크린샷 2024-07-05 오전 1 04 09" src="https://github.com/june5111/git_repository_test/assets/130432762/24432ac9-3c6c-4f6b-9f7f-e9f876cbeb68">
 <img width="590" alt="스크린샷 2024-07-05 오전 1 07 24" src="https://github.com/june5111/git_repository_test/assets/130432762/deac0692-3756-4347-9f2f-c9efcac93332">
@@ -79,10 +79,10 @@
 <img width="739" alt="스크린샷 2024-07-05 오전 12 54 49" src="https://github.com/june5111/git_repository_test/assets/130432762/5b8c3ef3-02b1-4f03-bf35-0f3adccc681d">
 <img width="663" alt="스크린샷 2024-07-05 오전 12 55 10" src="https://github.com/june5111/git_repository_test/assets/130432762/98cad5e4-57dc-4a6a-8be4-9ad97fb646b4">
 <img width="577" alt="스크린샷 2024-07-05 오전 12 55 29" src="https://github.com/june5111/git_repository_test/assets/130432762/29abb78c-4f39-4f6d-9708-679ea1596650">
----------
-### [ERD]
+
+## [ERD]
 <img width="2138" alt="스크린샷 2024-07-05 오전 5 06 15" src="https://github.com/june5111/git_repository_test/assets/130432762/2a32f734-3570-48ea-bc01-7af7e5660ab4">
 ---------
-### [API SPECES]
+## [API SPECES]
 (https://github.com/june5111/hhplus-concert/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
 
