@@ -1,4 +1,4 @@
-package hhplusconcert.concert.infrastructure;
+package hhplusconcert.concert.infrastructure.concert;
 
 import jakarta.persistence.*;
 import lombok.Builder;
